@@ -2,3 +2,5 @@
 *.MOV
 *.avi
 .idea
+*.mp4
+*.ipynb
